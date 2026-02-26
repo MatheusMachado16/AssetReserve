@@ -48,7 +48,7 @@ O sistema permite que usuários visualizem ativos disponíveis, consultem detalh
 | **CSS3** | Estilização com Flexbox, Grid e Media Queries |
 | **JavaScript** | Interatividade da aplicação |
 | **Supabase** | Backend as a Service (Banco de Dados + Autenticação) |
-| **Bootstrap** | Sistema de grid e componentes responsivos |
+| **Tailwind** | Sistema de grid e componentes responsivos |
 
 ---
 
